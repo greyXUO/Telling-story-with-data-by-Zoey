@@ -1,4 +1,4 @@
-# Telling-story-w-data
+# Telling Story with Data✍🏼
 A repo about my works for 94870
 - Web page URL: https://greyxuo.github.io/Telling-story-w-data/
 - This repository: https://github.com/greyXUO/Telling-story-w-data/
@@ -14,6 +14,7 @@ My linkedin: https://www.linkedin.com/in/huiyanxu04/
 # What I hope to learn
 1. Simple and effective visualization.
 2. Better combination of data, graphs, and my story!
+3. How we lead audience to believe our idea.
 
 # Examples
 You can keep this section for stuff from in-class demos or your other work, or remove it. 
