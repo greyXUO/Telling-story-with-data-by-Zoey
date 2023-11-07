@@ -1,6 +1,8 @@
 ## Assignment 1: Visualizeing Government Debt
 # OECD data
 <iframe src="https://data.oecd.org/chart/7eXB" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/7eXB" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2018</a></iframe>
+
+
 This visualization is easy to read and interact with. When you move the cursor over a bar, it displays the corresponding country and the debt-to-GDP value as a percentage. The bars are sorted by the percentage value, allowing the audience to quickly identify which country has the highest or lowest debt compared to its GDP. The use of highlighted colors makes it easier to locate the country names, which are positioned at the bottom of the graph. 
 
 However, it contains limited information as it only represents the debt rate in 2018.
@@ -15,6 +17,7 @@ However, it contains limited information as it only represents the debt rate in 
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
+
 
 The heat map contains a much larger dataset than the bar chart, spanning from 1995 to 2022. Different background colors are employed to represent various values within the blocks. We've also implemented sorting, using the average value for each country. For instance, Japan and Greece exhibit the highest debt ratios, indicated by deep orange colors, signifying significantly higher ratios compared to other data points. 
 
@@ -33,6 +36,7 @@ In a word, I appreciate this visualization as it functions effectively in both m
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
+
 Although the heat map did a good job of facilitating comparisons among countries, it was challenging to determine the extent of the increase in the debt-to-GDP ratio. We could only discern whether it was increasing or decreasing, but not by how much.
 
 To address this issue, I opted to use a box plot to provide a broader view of the global trend while retaining the data points for each country. A box plot can convey four values for each data group: the minimum and maximum values (excluding outliers), the first quartile, the median, and the third quartile. This allows us to gain a statistical understanding of the ratio for all countries quickly.
