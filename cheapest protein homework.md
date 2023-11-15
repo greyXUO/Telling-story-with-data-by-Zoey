@@ -4,5 +4,7 @@ For step one, I choose a data visualization from MakeoverMonday. (avoid using ex
 The links to the available visualizations can be found at https://www.makeovermonday.co.uk/data/. 
 
 I chose <strong>2023/W8: The Cheapest Ways to Get Your Protein</strong>. https://data.world/makeovermonday/2023w8
-![image](C:\Users\T14s\OneDrive\桌面\Tell Story\protein.png)
 
+<div style="text-align:center;">
+  <img src="protein.png" width="400" />
+</div>
