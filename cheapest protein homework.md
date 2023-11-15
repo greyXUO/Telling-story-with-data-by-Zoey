@@ -1,5 +1,5 @@
 ## Assignment 2: Critique by Design with Tableau (MakeoverMonday)
-# Step 1: Choose and crituque
+## Step 1: Choose and crituque
 For step one, I choose a data visualization from MakeoverMonday. (avoid using examples created by other students, etc.). 
 The links to the available visualizations can be found at https://www.makeovermonday.co.uk/data/. 
 
@@ -12,7 +12,7 @@ I chose <strong>2023/W8: The Cheapest Ways to Get Your Protein</strong>. https:/
 Article/Data Source: 
 <a href="https://lifehacker.com/the-cheapest-ways-to-get-your-protein-right-now-1850001760/" target="_blank">LifeHacker</a>
 
-## Step two: critique the data visualization
+## Step 2: critique the data visualization
 Using the data visualization selected from step one, complete a critique the visualization, this time using Stephen Few's Data Visualization Effectiveness Profile.
 
 pic
@@ -29,7 +29,11 @@ I like the idea that we can see the cheapest protein of everyday foods. It also 
 
 Agreed. 2-dimension evaluation of conceptual and data driven is not enough to show the design part of viz. We can also evaluate our performance by aiming different audience, as different groups vary in scores. I would traverse the order to make chicken breast stands out.
 
-## Step three: sketch out a solution
+## Step 3: sketch out a solution
 <div style="text-align:center;">
-  <img src="sketch.png" width="400" />
+  <img src="sketch.png" width="700" />
 </div>
+
+## Step 4: Test the solution
+
+## Step 5: Build your solution
