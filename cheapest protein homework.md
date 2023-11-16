@@ -13,7 +13,7 @@ Article/Data Source:
 ## Step 2: critique the data visualization
 Using the data visualization selected from step one, complete a critique the visualization, this time using Stephen Few's Data Visualization Effectiveness Profile.
 
-<img src="sketch.png" width="700" />
+<img src="evaluate.png" width="400" />
 
 <strong>Who is the primary audience for this tool?  Do you think this visualization is effective for reaching that audience?  Why or why not? </strong>.
 
@@ -68,7 +68,15 @@ Your sketch is so good, it's just hard to review. Um, if I have a tight budget, 
 My team members think that my sketch is highly completed and has good effect. A team member asked that he could not immediately see the cheapest source of protein due to my category ordering. He suggested that I highlight the most cost-effective of all foods, in this case chicken breasts. Another female student liked the classification of vegetarians, believing that everyone can choose according to their own needs.
 
 ### Watch Me Viz video
-
+The teacher used filter and dashboard to show vegan/ vegetarian. It is an interesting and fancy way to create interactive viz. Due to time limit, I was not able to solve this technological question of importing filters. But my color should be enough to show categories. Looking forward to use this tip later.
 
 ## Step 5: Build your solution
-
+<div class='tableauPlaceholder' id='viz1700092748172' style='position: relative'><noscript><a href='#'><img alt='HOW MUCH DOES 20G OF PROTEIN COST?The cost effectiveness of various prodcts per 20g serve of proteinsource: LifeHacker ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;hw&#47;hw34_17000927033990&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='hw34_17000927033990&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;hw&#47;hw34_17000927033990&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-GB' /><param name='filter' value='publish=yes' /></object></div>                
+<script type='text/javascript'>
+  var divElement = document.getElementById('viz1700092748172');
+  var vizElement = divElement.getElementsByTagName('object')[0]; 
+  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';
+  var scriptElement = document.createElement('script');
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);
+</script>
