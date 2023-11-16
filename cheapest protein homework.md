@@ -32,6 +32,7 @@ Agreed. 2-dimension evaluation of conceptual and data driven is not enough to sh
 Given the dataset with protein source, cost per 20g, cost per package, total protein, and two dummy variables about vegan and vegetarian, I was not able to redo the example cause the lacking of calorie. 
 <img src="dataset.png" width="700" />
 
+### Prepare work
 To redesign the viz, I analyzed from these questions:
 
 - <em>What do we want to talk about in this viz? </em>.
@@ -40,10 +41,11 @@ To redesign the viz, I analyzed from these questions:
 
 Below are my sketch notes. 
 <p float="left">
-  <img src="note1.jpg" width="300" />
-  <img src="note2.jpg" width="300" />
+  <img src="note1.jpg" width="400" />
+  <img src="note2.jpg" width="400" />
 </p>
 
+### sketch making
 As we are aiming to illustrate the differences between foods, this falls under the category of a comparison question. For this type of question, bar charts and radar charts are recommended. Therefore, I opted for a singular bar chart. Additionally, the assignment of different colors or using the same color for all categories is not an ideal choice for information acquisition. Consequently, I manually categorized the foods based on the <em>vegan? vegetarian?</em> variables and divided foods into <em> meat, animal products, and vegan</em>. I used green for vegan, yellow for animal products, and orange for meat
 
 <img src="sketch.png" width="700" />
@@ -71,6 +73,10 @@ My team members think that my sketch is highly completed and has good effect. A 
 The teacher used filter and dashboard to show vegan/ vegetarian. It is an interesting and fancy way to create interactive viz. Due to time limit, I was not able to solve this technological question of importing filters. But my color should be enough to show categories. Looking forward to use this tip later.
 
 ## Step 5: Build your solution
+With the feedbacks and offical guide video, I made several revises on my digital sketch. 
+Frist, many people said that they cannot know exactly which is the cheapest protein resource by looking at the blank bar, especially when comparing the minimum among three categories. The distance made comparison hard. The truth is that both chicken legs and silk milk have the lowest price but it was hard to distinguish that in the sketch. 
+Second, I added an average line in the graph. Sometimes, people may want to eat more than one protein, they can choose cheaper protein as long as the food is below average line. After all, cheapest cannot always be the best.
+
 <div class='tableauPlaceholder' id='viz1700093281087' style='position: relative'><noscript><a href='#'><img alt='HOW MUCH DOES 20G OF PROTEIN COST?The cost effectiveness of various prodcts per 20g serve of proteinsource: LifeHacker ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;hw&#47;hw34_17000927033990&#47;Sheet1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='hw34_17000927033990&#47;Sheet1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;hw&#47;hw34_17000927033990&#47;Sheet1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-GB' /><param name='filter' value='publish=yes' /></object></div>                
 <script type='text/javascript'>
   var divElement = document.getElementById('viz1700093281087');
