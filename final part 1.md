@@ -29,6 +29,12 @@ My final project aims to shed light on the issue of wildlife (and related produc
 
 ## Initial sketches
 
+<img src="design.jpg" width="800" />
+<img src="classes2.png" width="600" />
+<img src="classes1.png" width="600" />
+<img src="classes3.png" width="600" />
+
+
 
 
 ## The data
