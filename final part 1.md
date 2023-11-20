@@ -1,5 +1,11 @@
 # Final Project Part 1
+<strong>As a reader, I want to know more about wildlife trading in US so that I can gain insights into the impact on biodiversity, and foster awareness to contribute to the global conversation on sustainable wildlife conservation.</strong>
+
+<strong>I can do this by engaging with visually compelling and easily understandable data visualizations, donate/participate in wildlife protection activities. </strong>
+
 My final project aims to shed light on the issue of wildlife (and related products) trafficking through data visualization. Leveraging my internship experience at IFAW, I will focus on visualizing data from the CITES (Convention on International Trade in Endangered Species of Wild Fauna and Flora) database, specifically examining three years (2020-2022) of wildlife imports and products into the United States. The project will unfold in three main phases: visualizing trends in wildlife crimes across different species, analyzing the pathways of these crimes (e.g., shipping, concealment, air transport), and visualizing the sources and destinations of these illicit imports.
+
+
 
 ## Outline
 
