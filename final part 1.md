@@ -36,10 +36,13 @@ I tried several ways to draw viz in tableau.
 ### 1. Show classes distribution in general
 <img src="classes2.png" width="600" />
 <img src="classes1.png" width="400" />
+
 (personal speaking, i prefer the second one. Audience don't need to know the exact number but a general proportion).
 
 ### 2. Show classes distribution over time (2020-2022)
 <img src="classes3.png" width="600" />
+
+(Only show the top 4 classes, such as reptiles, Mammalia...And other compress to OTHER)
 
 ### 3. Show the modes of trafficking (can be over time period)
 Need further processing.
