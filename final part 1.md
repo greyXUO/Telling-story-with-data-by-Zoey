@@ -29,13 +29,23 @@ My final project aims to shed light on the issue of wildlife (and related produc
 
 ## Initial sketches
 
-<img src="design.jpg" width="800" />
+<img src="design.jpg" width="700" />
+
+I tried several ways to draw viz in tableau.
+
+### 1. Show classes distribution in general
 <img src="classes2.png" width="600" />
-<img src="classes1.png" width="600" />
+<img src="classes1.png" width="400" />
+(personal speaking, i prefer the second one. Audience don't need to know the exact number but a general proportion).
+
+### 2. Show classes distribution over time (2020-2022)
 <img src="classes3.png" width="600" />
 
+### 3. Show the modes of trafficking (can be over time period)
+Need further processing.
 
-
+### 4. Mapping exporting country
+<img src="map.png" width="600" />
 
 ## The data
 On the official open database websitem (https://trade.cites.org/) of CITES, we can get the Full CITES Trade Database download available (version 2023.1)
@@ -50,10 +60,8 @@ Part of the data:
 | 2020 | I    | Caiman latirostris      | Reptilia      | Crocodylia    | Alligatoridae    | Caiman     | US       | FR       | AR     | 1                          |                             | leather products (small) | Number of specimens | P       | I      |
 | 2020 | I    | Araucaria araucana      |               | Pinales       | Araucariaceae    | Araucaria  | US       | NL       | GB     | 10                         |                             | seeds                    | kg                  | T       | A      |
 | 2020 | I    | Araucaria araucana      |               | Pinales       | Araucariaceae    | Araucaria  | US       | NL       | GB     | 10                         |                             | seeds                    | kg                  | T       | D      |
-| 2020 | I    | Alouatta palliata       | Mammalia      | Primates      | Atelidae         | Alouatta   | US       | MX       |        | 213                        |                             | specimens                | Number of specimens | S       | W      |
-| 2020 | I    | Alouatta pigra          | Mammalia      | Primates      | Atelidae         | Alouatta   | US       | MX       |        | 286                        |                             | specimens                | Number of specimens | S       | W      |
-| 2020 | I    | Balaena mysticetus      | Mammalia      | Cetacea       | Balaenidae       | Balaena    | US       | CA       |        | 71                         |                             | specimens                | Number of specimens | S       | W      |
-
 
 ## Method and medium
 I am using my iPad and Tableau to help me sketch my drafts. Final data visualizations and the storyboard will be delivered via Tableau and Shorthand.
+
+<em>GPT used for outline building.</em>
