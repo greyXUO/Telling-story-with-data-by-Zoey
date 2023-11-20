@@ -29,9 +29,25 @@ My final project aims to shed light on the issue of wildlife (and related produc
 
 ## Initial sketches
 
+
+
 ## The data
 On the official open database websitem (https://trade.cites.org/) of CITES, we can get the Full CITES Trade Database download available (version 2023.1)
 I selected data from 2020 to 2022, importing country = United States of America.
 
-## Method and medium
+Part of the data:
 
+| Year | App. | Taxon                  | Class         | Order         | Family           | Genus      | Importer | Exporter | Origin | Importer reported quantity | Exporter reported quantity | Term                     | Unit                | Purpose | Source |
+|------|------|------------------------|---------------|---------------|------------------|------------|----------|----------|--------|----------------------------|-----------------------------|--------------------------|---------------------|---------|--------|
+| 2020 | I    | Achatinella bulimoides | Gastropoda    | Stylommatophora| Achatinellidae   | Achatinella| US       | TZ       | XX     | 1                          |                             | trophies                 | Number of specimens | H       | W      |
+| 2020 | I    | Ailurus fulgens        | Mammalia      | Carnivora     | Ailuridae        | Ailurus    | US       | CA       |        | 1                          |                             | live                     | Number of specimens | Z       | C      |
+| 2020 | I    | Caiman latirostris      | Reptilia      | Crocodylia    | Alligatoridae    | Caiman     | US       | FR       | AR     | 1                          |                             | leather products (small) | Number of specimens | P       | I      |
+| 2020 | I    | Araucaria araucana      |               | Pinales       | Araucariaceae    | Araucaria  | US       | NL       | GB     | 10                         |                             | seeds                    | kg                  | T       | A      |
+| 2020 | I    | Araucaria araucana      |               | Pinales       | Araucariaceae    | Araucaria  | US       | NL       | GB     | 10                         |                             | seeds                    | kg                  | T       | D      |
+| 2020 | I    | Alouatta palliata       | Mammalia      | Primates      | Atelidae         | Alouatta   | US       | MX       |        | 213                        |                             | specimens                | Number of specimens | S       | W      |
+| 2020 | I    | Alouatta pigra          | Mammalia      | Primates      | Atelidae         | Alouatta   | US       | MX       |        | 286                        |                             | specimens                | Number of specimens | S       | W      |
+| 2020 | I    | Balaena mysticetus      | Mammalia      | Cetacea       | Balaenidae       | Balaena    | US       | CA       |        | 71                         |                             | specimens                | Number of specimens | S       | W      |
+
+
+## Method and medium
+I am using my iPad and Tableau to help me sketch my drafts. Final data visualizations and the storyboard will be delivered via Tableau and Shorthand.
