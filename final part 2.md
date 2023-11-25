@@ -18,3 +18,9 @@
 | 2. The subtitles of graphs are confusing, I don’t know if they are subtitles or legends for the y-axis.  | 2. I think it would be better for the global consumption stacked area chart to have some annotations. It can better help readers to grab the information that consumption doubled.  | 2. You didn’t elaborate on how extreme weather makes it harder to plant coffee trees in traditional regions.                                 |
 | 3. Remember to check grammar and sentences.       | 3. When discussing the reasons for the decline in coffee production, I think it would be beneficial to add a sentence explaining why coffee beans’ sensitivity to extreme weather affects coffee production. (Because what you ultimately want to convey is that climate change is causing a reduction in coffee yields.) | 3.                                                                         |
 | 4. Remember to delete all blank templates and irrelevant pages. | 4. In general, I think what you are trying to say is not the risk of demand exceeding supply, What you are trying to say is the current production cannot cover the increasing demand. This could be an issue for your reader to comprehend your statements. | 4.                                                                         |
+|x|x|x|
+|x|x|x|
+|x|x|x|
+
+## revise based on interviews
+
