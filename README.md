@@ -35,6 +35,6 @@ This workflow is similar to what you'll be using to complete your final project,
 ## Final project
 Here it might be helpful to include a high-level description of your final project. 
 [Part I](final part 1.md)
-[Part II](final-project-part-two)
+[Part II](final part 2.md)
 Part III(final-project-part-three)
 
