@@ -1,6 +1,11 @@
 # Final Project Part 2
 
-## Outline
+## user protocol
+- the target audience you hope to reach with your story;
+-  your approach to identifying representative individuals to interview;
+- your interview script;
+- the findings from your interviews;
+- changes you plan on implementing to your visualizations next week to address the issues identified. 
 
 ## interview
 ### interview questions
