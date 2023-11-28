@@ -1,4 +1,6 @@
 # Final Project Part 2
+
+<strong> DEMO: </strong> https://preview.shorthand.com/h19Mp2BPGYPEmdUg
 ## my assumption
 <img src="Presentation1.jpg" width="600" />
 
@@ -11,7 +13,7 @@
 
 ## interview
 ### interview questions
-<img src="Mind Map.png" width="600" />
+<img src="Mind Map.png" width="800" />
 
 - Who do you think is the intended audience for this?
 - What is the emphasis of the story?
