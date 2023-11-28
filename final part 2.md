@@ -24,14 +24,15 @@
 - List one part of visualization and one part you dislike and why.
 
 ### interview notes
-| | **Interview 1  ** | **Interview 2  ** | **Interview 3  ** |
+| | Interview 1 (female,20s) | **Interview 2  ** | **Interview 3  ** |
 |----------|----------|----------|----------|
-|1. audence| Row 1, Col 2 | Row 1, Col 3 | Row 1, Col 4 |
-| 2. story| Row 2, Col 2 | Row 2, Col 3 | Row 2, Col 4 |
-| 3. pace| Row 3, Col 2 | Row 3, Col 3 | Row 3, Col 4 |
-| 4. viz | Row 4, Col 2 | Row 4, Col 3 | Row 4, Col 4 |
-| 5. likes | Row 5, Col 2 | Row 5, Col 3 | Row 5, Col 4 |
-| 6. dislikes | Row 6, Col 2 | Row 6, Col 3 | Row 6, Col 4 |
+|1. audence| NGOs | Row 1, Col 3 | Row 1, Col 4 |
+| 2. story| how serious the situation wild animals are facing. | Row 2, Col 3 | Row 2, Col 4 |
+| 3. pace| Which kind of animals are threatened. | Row 3, Col 3 | Row 3, Col 4 |
+| 4. viz | pretty good, it would be better to add an agenda. | Row 4, Col 3 | Row 4, Col 4 |
+| 5. confuse? | it seems too many words in some pages. | Row 4, Col 3 | Row 4, Col 4 |
+| 6. likes | bubblesphere. easy to understand what you want to illustrate. like the visualization of charts, and pictures are very vivid and correlated. | Row 5, Col 3 | Row 5, Col 4 |
+| 7. dislikes | lack of a general list, it may make me confused if I want to look through the project quickly. | Row 6, Col 3 | Row 6, Col 4 |
 
 ## discuss on class
 xxx
