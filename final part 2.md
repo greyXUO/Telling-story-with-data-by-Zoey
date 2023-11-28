@@ -29,7 +29,7 @@
 |1. audence| NGOs | People who are intertested in wildlife conservation. | Row 1, Col 4 |
 | 2. story| how serious the situation wild animals are facing, which kind of animals are threatened. | No suggestion. | Row 2, Col 4 |
 | 3. pace| pretty good, it would be better to add an agenda.  | Generally the story pace is good. I don't have problem on this. | Row 3, Col 4 |
-| 4. viz | it seems too many words in some pages. | Reptition on the first two vizs, showing similar infomation. | Row 4, Col 4 |
+| 4. viz | it seems too many words in some pages. | Repetition on the first two vizs, showing similar infomation. Too many classes in the graph at the same time. Suggest to zip other classes into OTHERS and show trend over year by filled line graph. | Row 4, Col 4 |
 | 5. likes | bubblesphere. easy to understand what you want to illustrate. like the visualization of charts, and pictures are very vivid and correlated. | ? | Row 5, Col 4 |
 | 6. dislikes | lack of a general list, it may make me confused if I want to look through the project quickly. |The interactive map causes some trouble when scrolling down. And the pie chart cannot change correspondently with the context. | Row 6, Col 4 |
 
