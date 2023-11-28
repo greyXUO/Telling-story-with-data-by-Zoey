@@ -1,6 +1,8 @@
 # Final Project Part 2
+## my assumption
+<img src="Presentation1.jpg" width="600" />
 
-## user protocol
+## user research protocol
 - the target audience you hope to reach with your story;
 -  your approach to identifying representative individuals to interview;
 - your interview script;
@@ -9,20 +11,28 @@
 
 ## interview
 ### interview questions
+<img src="Mind Map.png" width="600" />
+
 - Who do you think is the intended audience for this?
 - What is the emphasis of the story?
 - What can you tell from the data visualization?
+- How do you like the pace of this story?
 - Is there anything you find confusing or unproper?
 - List one part of visualization and one part you like and why.
 - List one part of visualization and one part you dislike and why.
 
-### interview records
-| Interview 1 (Early 20s) | Interview 2 (Mid 20s)  | Interview 3 (Mid 20s)  |
-|------------------------|-----------------------------------|-------------------------------------|
-| 1. The solution part has too many texts. | 1. I find the second and third slides a bit confusing because they give me a feeling that ‘coffee beans are going extinct,’ but the charts below show that demands exceed consumption. It doesn’t convey the same idea. | 1. I found it confusing that you mentioned the production decreases due to climate change, but in your first chart, both production and consumption are increasing, which is not persuasive and intuitive to me.  |
-| 2. The subtitles of graphs are confusing, I don’t know if they are subtitles or legends for the y-axis.  | 2. I think it would be better for the global consumption stacked area chart to have some annotations. It can better help readers to grab the information that consumption doubled.  | 2. You didn’t elaborate on how extreme weather makes it harder to plant coffee trees in traditional regions.                                 |
-| 3. Remember to check grammar and sentences.       | 3. When discussing the reasons for the decline in coffee production, I think it would be beneficial to add a sentence explaining why coffee beans’ sensitivity to extreme weather affects coffee production. (Because what you ultimately want to convey is that climate change is causing a reduction in coffee yields.) | 3.                                                                         |
-| 4. Remember to delete all blank templates and irrelevant pages. | 4. In general, I think what you are trying to say is not the risk of demand exceeding supply, What you are trying to say is the current production cannot cover the increasing demand. This could be an issue for your reader to comprehend your statements. | 4.                                                                         |
+### interview notes
+| | **Interview 1  ** | **Interview 2  ** | **Interview 3  ** |
+|----------|----------|----------|----------|
+|1. audence| Row 1, Col 2 | Row 1, Col 3 | Row 1, Col 4 |
+| 2. story| Row 2, Col 2 | Row 2, Col 3 | Row 2, Col 4 |
+| 3. pace| Row 3, Col 2 | Row 3, Col 3 | Row 3, Col 4 |
+| 4. viz | Row 4, Col 2 | Row 4, Col 3 | Row 4, Col 4 |
+| 5. likes | Row 5, Col 2 | Row 5, Col 3 | Row 5, Col 4 |
+| 6. dislikes | Row 6, Col 2 | Row 6, Col 3 | Row 6, Col 4 |
+
+## discuss on class
+xxx
 
 ## revise based on interviews
 
