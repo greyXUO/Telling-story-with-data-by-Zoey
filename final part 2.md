@@ -47,11 +47,23 @@ Now the new story would be like:
 - ending:   Some sustainable development in elephant habitats.
 
 ### Data update & add on
-Trafficking from CITES from 2009 - 2019 about ivory products:
+Trafficking from CITES from 2009 - 2019 about ivory products: https://trade.cites.org/
+| Year | App. | Taxon             | Class    | Order       | Family      | Genus | Importer | Exporter | Origin | Importer reported quantity | Exporter reported quantity | Term           | Unit | Purpose         | Source |
+|------|------|-------------------|----------|-------------|-------------|-------|----------|----------|--------|-----------------------------|-----------------------------|----------------|------|-----------------|--------|
+| 2013 | I    | Elephantidae spp. | Mammalia | Proboscidea | Elephantidae |       | US       | AT       | XX     | 2                           |                             | ivory carvings |      | P               | I      |
+| 2013 | I    | Elephantidae spp. | Mammalia | Proboscidea | Elephantidae |       | US       | AT       | XX     | 52                          |                             | ivory carvings |      | P               | O      |
+| 2013 | I    | Elephantidae spp. | Mammalia | Proboscidea | Elephantidae |       | US       | AT       | XX     | 1                           | 1                           | ivory carvings | Q    | O               |       |
 
-The data of illegal elephant huntings in Africa: 
+The data of illegal elephant huntings in Africa: https://github.com/CITESmike2023/GLMM-2023-unweighted-model/blob/main/Data/carcasssummarytable_2023-07-28.csv
+| UNRegion | SubregionName    | SubregionID | CountryName | CountryCode | MIKEsiteID | MIKEsiteName | Year | TotalNumberOfCarcasses | NumberOfIllegalCarcasses | Comments |
+|----------|------------------|-------------|-------------|-------------|------------|--------------|------|------------------------|---------------------------|----------|
+| Africa   | Southern Africa  | FS          | Zambia      | ZM          | KFE        | Kafue        | 2018 | 9                      | 7                         |          |
+| Africa   | Southern Africa  | FS          | Zambia      | ZM          | KFE        | Kafue        | 2019 | 8                      | 5                         |          |
+| Africa   | Southern Africa  | FS          | Zambia      | ZM          | KFE        | Kafue        | 2020 | 12                     | 8                         |          |
+| Africa   | Southern Africa  | FS          | Zambia      | ZM          | KFE        | Kafue        | 2021 | 14                     | 7                         |          |
 
-The data of  elephant numbers in Africa and Asia: 
+The data of elephant numbers in Africa and Asia: https://ourworldindata.org/elephant-populations#:~:text=In%202015%2C%20there%20were%20around,on%20the%20IUCN%20Red%20List.
+<iframe src="https://ourworldindata.org/grapher/african-elephants?time=1995..2015" loading="lazy" style="width: 100%; height: 600px; border: 0px none;"></iframe>
 
 ## interview notes 2
 | Questions | Interview 1 (female, 20s) | Interview 2 (male, 20s) | |
