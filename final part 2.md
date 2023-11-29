@@ -2,7 +2,8 @@
 
 <del><strong> DEMO 1: </strong> https://preview.shorthand.com/h19Mp2BPGYPEmdUg</del>
 
-<strong> DEMO 2: </strong> https://preview.shorthand.com/h19Mp2BPGYPEmdUg
+<strong> DEMO 2: </strong> [https://preview.shorthand.com/h19Mp2BPGYPEmdUg](https://preview.shorthand.com/XrkuJ302A2U0CUV6)
+
 ## my assumption
 <img src="Presentation1.jpg" width="600" />
 
