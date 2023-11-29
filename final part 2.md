@@ -34,7 +34,7 @@
 | 2. Story    | How serious the situation wild animals are facing, which kind of animals are threatened. | It’s more like a report, not really a story.                 |
 | 3. Pace     | Pretty good, it would be better to add an agenda.     | The pace is calm but not as attractive as a story.             |
 | 4. Viz      | It seems too many words in some pages.                 | Repetition on the first two vizs, showing similar information. Too many classes in the graph at the same time. Suggest zipping other classes into OTHERS and showing the trend over the years by a filled line graph. |
-| 5. Likes    | Bubblesphere. Easy to understand what you want to illustrate. Like the visualization of charts, and pictures are very vivid and correlated. | ?                                                            |
+| 5. Likes    | Bubblesphere. Easy to understand what you want to illustrate. Like the visualization of charts, and pictures are very vivid and correlated. | Not mentioned.                                                            |
 | 6. Dislikes | Lack of a general list, it may make me confused if I want to look through the project quickly. | The interactive map causes some trouble when scrolling down. And the pie chart cannot change correspondently with the context. |
 
 
