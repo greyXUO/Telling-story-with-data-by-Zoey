@@ -48,6 +48,7 @@ Now the new story would be like:
 
 ### Data update & add on
 Trafficking from CITES from 2009 - 2019 about ivory products: https://trade.cites.org/
+
 | Year | App. | Taxon             | Class    | Order       | Family      | Genus | Importer | Exporter | Origin | Importer reported quantity | Exporter reported quantity | Term           | Unit | Purpose         | Source |
 |------|------|-------------------|----------|-------------|-------------|-------|----------|----------|--------|-----------------------------|-----------------------------|----------------|------|-----------------|--------|
 | 2013 | I    | Elephantidae spp. | Mammalia | Proboscidea | Elephantidae |       | US       | AT       | XX     | 2                           |                             | ivory carvings |      | P               | I      |
@@ -55,6 +56,7 @@ Trafficking from CITES from 2009 - 2019 about ivory products: https://trade.cite
 | 2013 | I    | Elephantidae spp. | Mammalia | Proboscidea | Elephantidae |       | US       | AT       | XX     | 1                           | 1                           | ivory carvings | Q    | O               |       |
 
 The data of illegal elephant huntings in Africa: https://github.com/CITESmike2023/GLMM-2023-unweighted-model/blob/main/Data/carcasssummarytable_2023-07-28.csv
+
 | UNRegion | SubregionName    | SubregionID | CountryName | CountryCode | MIKEsiteID | MIKEsiteName | Year | TotalNumberOfCarcasses | NumberOfIllegalCarcasses | Comments |
 |----------|------------------|-------------|-------------|-------------|------------|--------------|------|------------------------|---------------------------|----------|
 | Africa   | Southern Africa  | FS          | Zambia      | ZM          | KFE        | Kafue        | 2018 | 9                      | 7                         |          |
