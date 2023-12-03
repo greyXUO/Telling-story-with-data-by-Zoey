@@ -1,3 +1,5 @@
+| [home page](https://greyxuo.github.io/Telling-story-w-data/) | [visualizing debt](visualizing-government-debt.md) | [critique by design](cheapest protein homework.md) | [final project I](final part 1.md)| [final project II](final part 2.md) | [final project III](final part 3.md) |
+
 # Final Project Part 1
 <strong>As a reader, I want to know more about wildlife trading in US so that I can gain insights into the impact on biodiversity, and foster awareness to contribute to the global conversation on sustainable wildlife conservation.</strong>
 
