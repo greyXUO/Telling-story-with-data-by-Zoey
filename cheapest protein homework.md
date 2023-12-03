@@ -1,3 +1,5 @@
+| [home page](https://greyxuo.github.io/Telling-story-w-data/) | [visualizing debt](visualizing-government-debt.md) | [critique by design](cheapest protein homework.md) | [final project I](final part 1.md)| [final project II](final part 2.md) | [final project III](final part 3.md) |
+
 ## Assignment 3 & 4: Critique by Design with Tableau (MakeoverMonday)
 ## Step 1: Choose and crituque
 For step one, I choose a data visualization from MakeoverMonday. (avoid using examples created by other students, etc.). 
