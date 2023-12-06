@@ -5,12 +5,24 @@
 ## The final data story
 > Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here.
 
-<script src="https://carnegiemellon.shorthandstories.com/stop-ivory-trade/index.html"></script>
+[stop Ivory Trade](https://carnegiemellon.shorthandstories.com/stop-ivory-trade/index.html)
+
+<script src="https://carnegiemellon.shorthandstories.com/stop-ivory-trade/embed.js"></script>
 
 ## Changes made since Part II
 > Include few paragraphs that reflects on changes you made since the completion of Part II. 
 
-Text here!
+First, my classmates gave me structural advice.
+1. navigation was inserted to help fast-move and skip parts that the audience may not be interested in.
+2. Pics or vizs were designed in simple and straightforward ways to best service my content.
+3. I narrowed some of the data sets to eliminate excessive information. 
+
+Both our TAs gave me valuable and practical suggestions for me. 
+1. CG reminded me of some images about copyright protection, I removed some of the images and added more citations for data sources in all the data viz. CG also pointed out that my last part had a weak link to my content and could not give a solution to my audience. Instead of giving datasets about WWF or IFAW, I illustrated a successful animal-protected product and called people to choose eco-friendly products in their daily lives. 
+
+2. AS suggested I change/ add a subtitle for the data conclusion. For example, the decreasing elephant numbers. An obvious subtitle can let my readers get the conclusion immediately without reading the whole paragraph. Similarly, more subtitles were added when I thought reading would be time-consuming or I wanted the audience to know the information quickly.
+
+
 
 ## The audience
 > Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
