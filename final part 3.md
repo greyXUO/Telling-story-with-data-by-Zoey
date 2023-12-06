@@ -3,9 +3,9 @@
 # Final Project Part 3
 
 ## The final data story
-> Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
+> Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here.
 
-Text here! 
+<script src="https://carnegiemellon.shorthandstories.com/stop-ivory-trade/index.html"></script>
 
 ## Changes made since Part II
 > Include few paragraphs that reflects on changes you made since the completion of Part II. 
