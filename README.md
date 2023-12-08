@@ -34,9 +34,9 @@ You recently read Design and Redesign in Data Visualization that talked about th
 
 This workflow is similar to what you'll be using to complete your final project, so if you can get comfortable with using each section to your full advantage, your final output will be more impactful.  Each step is outlined in detail below.  
 
-## Final project
+## Final project: [webiste](final part 3.md)
 Here it might be helpful to include a high-level description of your final project. 
 [Part I](final part 1.md)
 [Part II](final part 2.md)
-Part III(final-project-part-three)
+[Part III](final part 3.md)
 
