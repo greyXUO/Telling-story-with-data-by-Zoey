@@ -1,4 +1,5 @@
-| [home page](https://greyxuo.github.io/Telling-story-w-data/) | [visualizing debt](visualizing-government-debt.md) | [critique by design](cheapest protein homework.md) | [final project I](final part 1.md)| [final project II](final part 2.md) | [final project III](final part 3.md) |
+| home page | visualizing debt | [critique by design](cheapest protein homework.md) | [final project I](final part 1.md)| [final project II](final part 2.md) | [final project III](final part 3.md) |
+
 ## Assignment 1: Visualizeing Government Debt
 # OECD data
 <iframe src="https://data.oecd.org/chart/7eXB" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/7eXB" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2018</a></iframe>
