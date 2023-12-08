@@ -18,9 +18,6 @@ My linkedin: https://www.linkedin.com/in/huiyanxu04/
 2. Better combination of data, graphs, and my story!
 3. How we lead audience to believe our idea.
 
-# Examples
-You can keep this section for stuff from in-class demos or your other work, or remove it. 
-
 ## Assignment 2: [Visualizing government Debt](visualizing-government-debt.md) 
 The Organization for Economic Co-operation and Development (OECD) has a lot of interesting, easy to use and downloadable datasets, and also includes a tool that allows you a way to embed interactive visualizations directly from their website.  A number of web-based tools allow you to create data visualizations directly and then embed them somewhere else, so the first part of this assignment will involve taking the code for the generated visualization you've customized and placing it on your own portfolio page.  
 
@@ -34,7 +31,7 @@ You recently read Design and Redesign in Data Visualization that talked about th
 
 This workflow is similar to what you'll be using to complete your final project, so if you can get comfortable with using each section to your full advantage, your final output will be more impactful.  Each step is outlined in detail below.  
 
-## Final project: [webiste](final part 3.md)
+## Final project: [webiste](https://carnegiemellon.shorthandstories.com/stop-ivory-trade/index.html)
 Here it might be helpful to include a high-level description of your final project. 
 [Part I](final part 1.md)
 [Part II](final part 2.md)
