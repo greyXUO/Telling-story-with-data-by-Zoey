@@ -2,7 +2,7 @@
 
 # Telling Story with Data✍🏼
 A repo about my works for 94870
-- Web page URL: https://greyxuo.github.io/Telling-story-w-data/
+- Web page URL: https://greyxuo.github.io/Telling-story-with-data-by-Zoey/
 - This repository: https://github.com/greyXUO/Telling-story-with-data-by-Zoey.git
 
 # Portfolio
