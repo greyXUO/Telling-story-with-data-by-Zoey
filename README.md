@@ -3,7 +3,7 @@
 # Telling Story with Data✍🏼
 A repo about my works for 94870
 - Web page URL: https://greyxuo.github.io/Telling-story-w-data/
-- This repository: https://github.com/greyXUO/Telling-story-w-data/
+- This repository: https://github.com/greyXUO/Telling-story-with-data-by-Zoey.git
 
 # Portfolio
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  
